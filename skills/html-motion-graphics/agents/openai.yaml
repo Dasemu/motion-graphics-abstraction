@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gráficos animados HTML"
+  short_description: "Anima imágenes y datos con contornos y partículas"
+  default_prompt: "Usa $html-motion-graphics para crear un gráfico animado en HTML a partir de esta fuente y ayúdame a elegir el tratamiento visual."
